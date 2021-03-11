@@ -1,5 +1,4 @@
-# DDG
-Delivery Design Guide
+# DDG - Delivery Design Guide
 
 ## O que é uma DDG?
 Resumidamente, DDG é um documento de [design](https://pt.wikipedia.org/wiki/Design) que fornece informações, descreve um processo ou documenta um guia a ser seguido pelos colaboradores do setor de Delivery da Linkapi.  
